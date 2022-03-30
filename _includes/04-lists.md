@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* :chocolate_bar: <3
+* Colors I'm fond of
+  * 💙
+  * 💚
